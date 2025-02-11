@@ -40,3 +40,6 @@ Copy into this folder
 
 ![image](https://github.com/user-attachments/assets/1970e2df-4df9-4108-8b53-62d475a8438f)
 
+## 7. Run the application and see the results
+
+![image](https://github.com/user-attachments/assets/99e634cd-61a9-4b19-be56-496c82922374)
