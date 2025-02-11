@@ -32,6 +32,11 @@ https://github.com/luiscoco/sCO2_simplified_64bits
 
 ## 6. Copy the following folders and files inside the bin folder created when you run your application
 
+Copy these folders and files
+
 ![image](https://github.com/user-attachments/assets/63fb6ac0-5348-4826-97af-133fab24a539)
 
+Copy into this folder
+
+![image](https://github.com/user-attachments/assets/1970e2df-4df9-4108-8b53-62d475a8438f)
 
