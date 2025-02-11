@@ -18,7 +18,17 @@ https://github.com/luiscoco/sCO2_simplified_64bits
 
 ![image](https://github.com/user-attachments/assets/f4b2175d-f40e-41dc-ad54-3540cb21d67a)
 
+## 4. We Run the Application selecting the x64 bits option
 
-## 4. 
+![image](https://github.com/user-attachments/assets/45bd47b1-a340-42fa-b227-5d1837b53504)
 
+![image](https://github.com/user-attachments/assets/d16cef2e-89a1-433a-9d7d-de0ee8d7f3e6)
+
+![image](https://github.com/user-attachments/assets/d888cfd9-a997-45af-8220-59a26406ec9a)
+
+## 5. We Stop the Application
+
+![image](https://github.com/user-attachments/assets/527f3bc6-5019-4ce2-938d-3f4f2398dd19)
+
+## 6. 
 
