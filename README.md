@@ -1,4 +1,8 @@
-# How to Download and Run sCO2_simplified_64bits-master application
+# sCO2 Brayton power cycles (four configurations without equipments design)
+
+![image](https://github.com/user-attachments/assets/52b84b2c-ba8d-474b-bf4e-b74ad61837d1)
+
+## How to Download and Run sCO2_simplified_64bits-master application
 
 ## 1. We first download the ZIP file from the github repo
 
